@@ -1,0 +1,38 @@
+.signin,
+.signup,
+.foreget-pass {
+  min-height: 80vh;
+  .eye-icon {
+    top: 10px;
+    left: 7px;
+  }
+  .or {
+    position: relative;
+    &::before {
+      content: '';
+      display: block;
+      width: 44%;
+      height: 1px;
+      background: #adb5bd;
+      left: 0;
+      top: 50%;
+      position: absolute;
+    }
+    &::after {
+      content: '';
+      display: block;
+      width: 44%;
+      height: 1px;
+      background: #adb5bd;
+      right: 0;
+      top: 50%;
+      position: absolute;
+    }
+    // @media (max-width: 567px) {
+    //   &::after,
+    //   &::before {
+    //     width: 8em !important;
+    //   }
+    // }
+  }
+}
