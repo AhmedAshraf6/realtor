@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/realtor/static/css/main.d412f4d7.css",
+    "main.js": "/realtor/static/js/main.c3057f1c.js",
+    "static/media/sign.jpg": "/realtor/static/media/sign.0b9d3fddc8c2d0d5eb06.jpg",
+    "static/media/card.jpg": "/realtor/static/media/card.f642943073036fcc45ce.jpg",
+    "index.html": "/realtor/index.html",
+    "main.d412f4d7.css.map": "/realtor/static/css/main.d412f4d7.css.map",
+    "main.c3057f1c.js.map": "/realtor/static/js/main.c3057f1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d412f4d7.css",
+    "static/js/main.c3057f1c.js"
+  ]
+}
